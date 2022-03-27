@@ -1,7 +1,9 @@
 # PROJECT SHRAMIK 
 
 ## Introduction :-
-                  This project is developed by team MegaBit .We have used the Augmented Reality Technology for this project along with the various tools and softwares such as :
+        This video is made as a part of the IONathon 1.0 hackathon.
+Project Shramik:-
+Shramik basically is an android application made with Augmented Reality Technology. With the help of this application, anyone can get industrial training free of cost without going to training centers as we bring training centers to your home. I have used the Augmented Reality Technology for this project along with the various tools and softwares such as :
 ## Tools :-
 
 ### Unity :-  It is used to design the environment for all the development purpose and to add animations to model , compiling scripts and adding behaviour , etc .
@@ -17,4 +19,4 @@ Unity contains android sdks and jdks pre-built so whenever developer clicks the 
 <br />
 <br />
 
-The rest of the description , can be seen in our You-Tube video :      https://www.youtube.com/watch?v=07xuH1ljTac&feature=youtu.be
+The rest of the description , can be seen in our You-Tube video :  https://www.youtube.com/watch?v=yj_fHin9iZ0
